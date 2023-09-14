@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ejemplo</string>
+    <string-array name="Planetas">
+        <item>Elija una de las siguientes opciones: </item>
+        <item>Planeta tierra</item>
+        <item>Venus</item>
+        <item> Marte</item>
+        <item> Urano</item>
+    </string-array>
+</resources>
